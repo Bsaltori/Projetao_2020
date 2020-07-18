@@ -1,0 +1,13 @@
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\bin\Debug\netcoreapp3.1\Exercicio 3.exe
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\bin\Debug\netcoreapp3.1\Exercicio 3.deps.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\bin\Debug\netcoreapp3.1\Exercicio 3.runtimeconfig.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\bin\Debug\netcoreapp3.1\Exercicio 3.runtimeconfig.dev.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\bin\Debug\netcoreapp3.1\Exercicio 3.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\bin\Debug\netcoreapp3.1\Exercicio 3.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\obj\Debug\netcoreapp3.1\Exercicio 3.csprojAssemblyReference.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\obj\Debug\netcoreapp3.1\Exercicio 3.AssemblyInfoInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\obj\Debug\netcoreapp3.1\Exercicio 3.AssemblyInfo.cs
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\obj\Debug\netcoreapp3.1\Exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\obj\Debug\netcoreapp3.1\Exercicio 3.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\obj\Debug\netcoreapp3.1\Exercicio 3.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Exercicio 3\Exercicio 3\obj\Debug\netcoreapp3.1\Exercicio 3.genruntimeconfig.cache

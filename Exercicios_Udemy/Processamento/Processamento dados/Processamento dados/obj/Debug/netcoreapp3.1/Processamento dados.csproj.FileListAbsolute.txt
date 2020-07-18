@@ -1,0 +1,13 @@
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\bin\Debug\netcoreapp3.1\Processamento dados.exe
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\bin\Debug\netcoreapp3.1\Processamento dados.deps.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\bin\Debug\netcoreapp3.1\Processamento dados.runtimeconfig.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\bin\Debug\netcoreapp3.1\Processamento dados.runtimeconfig.dev.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\bin\Debug\netcoreapp3.1\Processamento dados.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\bin\Debug\netcoreapp3.1\Processamento dados.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\obj\Debug\netcoreapp3.1\Processamento dados.csprojAssemblyReference.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\obj\Debug\netcoreapp3.1\Processamento dados.AssemblyInfoInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\obj\Debug\netcoreapp3.1\Processamento dados.AssemblyInfo.cs
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\obj\Debug\netcoreapp3.1\Processamento dados.csproj.CoreCompileInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\obj\Debug\netcoreapp3.1\Processamento dados.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\obj\Debug\netcoreapp3.1\Processamento dados.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\Processamento\Processamento dados\Processamento dados\obj\Debug\netcoreapp3.1\Processamento dados.genruntimeconfig.cache

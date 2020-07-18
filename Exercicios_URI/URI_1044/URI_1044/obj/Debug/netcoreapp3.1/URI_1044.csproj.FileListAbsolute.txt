@@ -1,0 +1,13 @@
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\bin\Debug\netcoreapp3.1\URI_1044.exe
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\bin\Debug\netcoreapp3.1\URI_1044.deps.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\bin\Debug\netcoreapp3.1\URI_1044.runtimeconfig.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\bin\Debug\netcoreapp3.1\URI_1044.runtimeconfig.dev.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\bin\Debug\netcoreapp3.1\URI_1044.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\bin\Debug\netcoreapp3.1\URI_1044.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\obj\Debug\netcoreapp3.1\URI_1044.csprojAssemblyReference.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\obj\Debug\netcoreapp3.1\URI_1044.AssemblyInfoInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\obj\Debug\netcoreapp3.1\URI_1044.AssemblyInfo.cs
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\obj\Debug\netcoreapp3.1\URI_1044.csproj.CoreCompileInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\obj\Debug\netcoreapp3.1\URI_1044.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\obj\Debug\netcoreapp3.1\URI_1044.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI_1044\URI_1044\obj\Debug\netcoreapp3.1\URI_1044.genruntimeconfig.cache

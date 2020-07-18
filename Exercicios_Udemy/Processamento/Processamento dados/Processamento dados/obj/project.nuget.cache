@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3xZOaCpmPjF55Do4Um+C1P7kJsHfeSVVqOLLnLEY9G54fcbUsZxf+RWaxVGWkd/+ALjFzV7jnPb1Sb7vv9w8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\biaah\\OneDrive\\Documentos\\Lógica de programação\\projetão 2020\\Processamento\\Processamento dados\\Processamento dados\\Processamento dados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\biaah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

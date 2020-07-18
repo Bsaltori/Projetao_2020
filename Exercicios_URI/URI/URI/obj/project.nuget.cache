@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "txWlrdBfUo0dVP5+0WoPyPyBQWugMcm8R+dWlOBcD4TGthCpH4OJpcnFgWCIos27SMvOuwICiQ5HNgwbmmytuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\biaah\\OneDrive\\Documentos\\Lógica de programação\\Projetao_2020\\URI\\URI\\URI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\biaah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

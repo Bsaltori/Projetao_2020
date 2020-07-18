@@ -1,0 +1,13 @@
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\bin\Debug\netcoreapp3.1\URI_1036.exe
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\bin\Debug\netcoreapp3.1\URI_1036.deps.json
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\bin\Debug\netcoreapp3.1\URI_1036.runtimeconfig.json
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\bin\Debug\netcoreapp3.1\URI_1036.runtimeconfig.dev.json
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\bin\Debug\netcoreapp3.1\URI_1036.dll
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\bin\Debug\netcoreapp3.1\URI_1036.pdb
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\obj\Debug\netcoreapp3.1\URI_1036.csprojAssemblyReference.cache
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\obj\Debug\netcoreapp3.1\URI_1036.AssemblyInfoInputs.cache
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\obj\Debug\netcoreapp3.1\URI_1036.AssemblyInfo.cs
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\obj\Debug\netcoreapp3.1\URI_1036.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\obj\Debug\netcoreapp3.1\URI_1036.dll
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\obj\Debug\netcoreapp3.1\URI_1036.pdb
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\URI_1036\URI_1036\obj\Debug\netcoreapp3.1\URI_1036.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\bin\Debug\netcoreapp3.1\Udemy_2.exe
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\bin\Debug\netcoreapp3.1\Udemy_2.deps.json
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\bin\Debug\netcoreapp3.1\Udemy_2.runtimeconfig.json
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\bin\Debug\netcoreapp3.1\Udemy_2.runtimeconfig.dev.json
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\bin\Debug\netcoreapp3.1\Udemy_2.dll
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\bin\Debug\netcoreapp3.1\Udemy_2.pdb
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\obj\Debug\netcoreapp3.1\Udemy_2.csprojAssemblyReference.cache
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\obj\Debug\netcoreapp3.1\Udemy_2.AssemblyInfoInputs.cache
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\obj\Debug\netcoreapp3.1\Udemy_2.AssemblyInfo.cs
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\obj\Debug\netcoreapp3.1\Udemy_2.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\obj\Debug\netcoreapp3.1\Udemy_2.dll
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\obj\Debug\netcoreapp3.1\Udemy_2.pdb
+C:\Users\Beatriz\Documents\Lógica de programação\cursoLogicaProg\Exercicios_Udemy\Udemy_2\Udemy_2\obj\Debug\netcoreapp3.1\Udemy_2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\bin\Debug\netcoreapp3.1\URI_140.exe
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\bin\Debug\netcoreapp3.1\URI_140.deps.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\bin\Debug\netcoreapp3.1\URI_140.runtimeconfig.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\bin\Debug\netcoreapp3.1\URI_140.runtimeconfig.dev.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\bin\Debug\netcoreapp3.1\URI_140.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\bin\Debug\netcoreapp3.1\URI_140.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\obj\Debug\netcoreapp3.1\URI_140.csprojAssemblyReference.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\obj\Debug\netcoreapp3.1\URI_140.AssemblyInfoInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\obj\Debug\netcoreapp3.1\URI_140.AssemblyInfo.cs
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\obj\Debug\netcoreapp3.1\URI_140.csproj.CoreCompileInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\obj\Debug\netcoreapp3.1\URI_140.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\obj\Debug\netcoreapp3.1\URI_140.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_140\URI_140\obj\Debug\netcoreapp3.1\URI_140.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\bin\Debug\netcoreapp3.1\URI.exe
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\bin\Debug\netcoreapp3.1\URI.deps.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\bin\Debug\netcoreapp3.1\URI.runtimeconfig.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\bin\Debug\netcoreapp3.1\URI.runtimeconfig.dev.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\bin\Debug\netcoreapp3.1\URI.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\bin\Debug\netcoreapp3.1\URI.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\obj\Debug\netcoreapp3.1\URI.csprojAssemblyReference.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\obj\Debug\netcoreapp3.1\URI.AssemblyInfoInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\obj\Debug\netcoreapp3.1\URI.AssemblyInfo.cs
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\obj\Debug\netcoreapp3.1\URI.csproj.CoreCompileInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\obj\Debug\netcoreapp3.1\URI.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\obj\Debug\netcoreapp3.1\URI.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\projetão 2020\URI\URI\obj\Debug\netcoreapp3.1\URI.genruntimeconfig.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\bin\Debug\netcoreapp3.1\URI.exe
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\bin\Debug\netcoreapp3.1\URI.deps.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\bin\Debug\netcoreapp3.1\URI.runtimeconfig.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\bin\Debug\netcoreapp3.1\URI.runtimeconfig.dev.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\bin\Debug\netcoreapp3.1\URI.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\bin\Debug\netcoreapp3.1\URI.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\obj\Debug\netcoreapp3.1\URI.csprojAssemblyReference.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\obj\Debug\netcoreapp3.1\URI.AssemblyInfoInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\obj\Debug\netcoreapp3.1\URI.AssemblyInfo.cs
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\obj\Debug\netcoreapp3.1\URI.csproj.CoreCompileInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\obj\Debug\netcoreapp3.1\URI.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\obj\Debug\netcoreapp3.1\URI.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\URI\URI\obj\Debug\netcoreapp3.1\URI.genruntimeconfig.cache

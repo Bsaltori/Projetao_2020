@@ -1,0 +1,13 @@
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\bin\Debug\netcoreapp3.1\URI_1061.exe
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\bin\Debug\netcoreapp3.1\URI_1061.deps.json
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\bin\Debug\netcoreapp3.1\URI_1061.runtimeconfig.json
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\bin\Debug\netcoreapp3.1\URI_1061.runtimeconfig.dev.json
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\bin\Debug\netcoreapp3.1\URI_1061.dll
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\bin\Debug\netcoreapp3.1\URI_1061.pdb
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\obj\Debug\netcoreapp3.1\URI_1061.csprojAssemblyReference.cache
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\obj\Debug\netcoreapp3.1\URI_1061.AssemblyInfoInputs.cache
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\obj\Debug\netcoreapp3.1\URI_1061.AssemblyInfo.cs
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\obj\Debug\netcoreapp3.1\URI_1061.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\obj\Debug\netcoreapp3.1\URI_1061.dll
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\obj\Debug\netcoreapp3.1\URI_1061.pdb
+C:\Users\Beatriz\Documents\Lógica de programação\Exercicios_URI\URI_1061\URI_1061\obj\Debug\netcoreapp3.1\URI_1061.genruntimeconfig.cache

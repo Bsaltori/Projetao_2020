@@ -1,0 +1,13 @@
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\bin\Debug\netcoreapp3.1\URI_1048.exe
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\bin\Debug\netcoreapp3.1\URI_1048.deps.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\bin\Debug\netcoreapp3.1\URI_1048.runtimeconfig.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\bin\Debug\netcoreapp3.1\URI_1048.runtimeconfig.dev.json
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\bin\Debug\netcoreapp3.1\URI_1048.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\bin\Debug\netcoreapp3.1\URI_1048.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\obj\Debug\netcoreapp3.1\URI_1048.csprojAssemblyReference.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\obj\Debug\netcoreapp3.1\URI_1048.AssemblyInfoInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\obj\Debug\netcoreapp3.1\URI_1048.AssemblyInfo.cs
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\obj\Debug\netcoreapp3.1\URI_1048.csproj.CoreCompileInputs.cache
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\obj\Debug\netcoreapp3.1\URI_1048.dll
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\obj\Debug\netcoreapp3.1\URI_1048.pdb
+C:\Users\biaah\OneDrive\Documentos\Lógica de programação\Projetao_2020\Exercicios_URI\URI_1048\URI_1048\obj\Debug\netcoreapp3.1\URI_1048.genruntimeconfig.cache
